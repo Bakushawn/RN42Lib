@@ -1,3 +1,10 @@
+/**
+ * Author: Shawn Sargnet
+ * 
+ * 
+ * 
+ */
+
 #ifndef RN42Lib_H
 #define RN42Lib_H
 
